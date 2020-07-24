@@ -7,7 +7,7 @@ java -jar examen-0.0.1.jar
 la aplicación corre sobre el puerto 8080 (http://localhost:8080/), el código fuente está publicado en este repositorio
 
 ## Arquitectura
-La aplicación está desarrollada con una arquitectura enfocada a servicios REST utilizando el Spring Boot Framework, y el Front end desarrollado con React
+La aplicación está desarrollada con una arquitectura enfocada a servicios REST utilizando el Spring Boot Framework, y el Front end desarrollado con React cuyo repositorio esta en https://github.com/thefxpc/gfi_frontend
 
 ## Tecnologias utilizadas
 Base de datos :H2 \
